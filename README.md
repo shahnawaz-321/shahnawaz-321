@@ -28,7 +28,9 @@ Web Developer with a strong foundation in JavaScript Nodejs, Express, Mongodb, S
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![ORM](https://img.shields.io/badge/ORM-000000?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+
 
 
 
@@ -39,7 +41,18 @@ Web Developer with a strong foundation in JavaScript Nodejs, Express, Mongodb, S
 # 📊 GitHub Stats:
 
 
-<a href="https://github.com/Md shahnawaz Alam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrRiabov&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Md shahnawaz Alam" align="left">
+    <img src="https://img.shields.io/badge/Node.js-80%25-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/MongoDB-60%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Express-50%25-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/SQL%20ORM-40%25-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL ORM" />
+    <img src="https://img.shields.io/badge/HTML-40%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-40%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-50%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-30%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/C%2B%2B-70%25-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/C-70%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mdshahnawazalam&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)

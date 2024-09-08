@@ -26,8 +26,10 @@ Web Developer with a strong foundation in JavaScript Nodejs, Express, Mongodb, S
 [![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](#)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
-[![Nodejs](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=Nodejs&logoColor=white)](#)
-[![Express](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=Express&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
+
 
 
 ### Soft Skills
@@ -35,9 +37,7 @@ Web Developer with a strong foundation in JavaScript Nodejs, Express, Mongodb, S
 > - Leadership, Responsibility, Teamwork, Communication, Team management, Collaboration
 
 # 📊 GitHub Stats:
-<a href="https://github.com/shahnawaz-321"><img src="https://github-readme-stats.vercel.app/api?username=Md shahnawaz alam&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="Md shahnawaz alam GitHub stats" /></a><br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mdshahnawazalam&theme=blueberry&hide_border=false)<br/>
 
 <a href="https://github.com/Md shahnawaz Alam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleksandrRiabov&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 

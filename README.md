@@ -35,7 +35,7 @@ Web Developer with a strong foundation in JavaScript Nodejs, Express, Mongodb, S
 > - Leadership, Responsibility, Teamwork, Communication, Team management, Collaboration
 
 # 📊 GitHub Stats:
-<a href="http://https://github.com/shahnawaz-321"><img src="https://github-readme-stats.vercel.app/api?username=Md shahnawaz alam&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="AleksandrRiabov GitHub stats" /></a><br/>
+<a href="https://github.com/shahnawaz-321"><img src="https://github-readme-stats.vercel.app/api?username=Md shahnawaz alam&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="Md shahnawaz alam GitHub stats" /></a><br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mdshahnawazalam&theme=blueberry&hide_border=false)<br/>
 

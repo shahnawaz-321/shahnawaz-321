@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md shahnawaz alam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">A passionate   Backend developer from India</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fjet-animation--303007881175945253%2F&psig=AOvVaw0RzRGb1Y25b-fKqwR1kgJD&ust=1725882260540000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCo-dGis4gDFQAAAAAdAAAAABAE" alt="">
 - 🌱 I’m currently learning **DSA and Web development**
 
 - 💬 Ask me about **c,c++,HTML,Css,nodejs,typescript,mongodb,express,sql,postgres**

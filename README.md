@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md shahnawaz alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img
-  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToyG_B7gHazaJKx2wZNGfW4jzpHACRde4eLQ&s"
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToyG_B7gHazaJKx2wZNGfW4jzpHACRde4eLQ&s" width="450px" align="right"
   alt=""
 />
 - 🌱 I’m currently learning **DSA and Web development** - 💬 Ask me about
